@@ -16,7 +16,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "55339691bf73ade13c3887012da5d7f6",
+        "contentDigest": "3dec6f1c4fc4b0bd48052e95d28d87cc",
         "description": "Plugin dev-404-page",
         "owner": "internal-data-bridge"
       }
@@ -237,7 +237,10 @@
           "noscript",
           "style"
         ],
-        "author": "Kyle Mathews <matthews.kyle@gmail.com>",
+        "author": {
+          "name": "Kyle Mathews",
+          "email": "matthews.kyle@gmail.com"
+        },
         "license": "MIT",
         "dependencies": [
           {
@@ -280,7 +283,7 @@
       "resolve": "/home/joshua/programming/the-after-hours-site",
       "id": "Plugin default-site-plugin",
       "name": "default-site-plugin",
-      "version": "a77c4ad8ddfd7c099694aea8fa852ba5",
+      "version": "9056dda0a85075b0d5586fe905d88ead",
       "pluginOptions": {
         "plugins": []
       },
@@ -328,7 +331,7 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "3a3c3f094cb8597270e375e151f132a8",
+        "contentDigest": "561abe1403d22c0d56f5fd881c146240",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
@@ -358,7 +361,10 @@
           "gatsby",
           "gatsby-plugin"
         ],
-        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "author": {
+          "name": "Kyle Mathews",
+          "email": "mathews.kyle@gmail.com"
+        },
         "license": "MIT",
         "dependencies": [
           {
@@ -414,18 +420,18 @@
     },
     "Site": {
       "siteMetadata": {
-        "title": "Gatsby Default Starter"
+        "title": "The After Hours"
       },
       "port": "8000",
       "host": "localhost",
       "pathPrefix": "",
       "polyfill": true,
-      "buildTime": "2018-08-11T18:22:54.715Z",
+      "buildTime": "2018-08-11T18:37:31.515Z",
       "id": "Site",
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "18de14f0caaedff20a8e5f93f78d4b81",
+        "contentDigest": "ff6bcc5c7ead1cfbbf1fc605dc5f1a45",
         "type": "Site",
         "owner": "internal-data-bridge"
       }
@@ -446,7 +452,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "607ecbe492a832578aa4cbe9486e6f38",
+        "contentDigest": "f5b9ba6d8262e9c629cf5e6e70d5a279",
         "description": "Plugin gatsby-plugin-page-creator",
         "owner": "internal-data-bridge"
       }
@@ -467,7 +473,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "f6769cdd9017bddce12db1e0600e2784",
+        "contentDigest": "f240ee17b3894908014ad16ecefb3f9f",
         "description": "Plugin gatsby-plugin-page-creator",
         "owner": "internal-data-bridge"
       }
@@ -488,7 +494,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "ff03a1a9ccd7cfb636968b20a7c35c6f",
+        "contentDigest": "cb9322dfa3a043e07d0a476bbe8d398e",
         "description": "Plugin gatsby-plugin-page-creator",
         "owner": "internal-data-bridge"
       }
@@ -509,7 +515,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "11645555d3a19b44238057b06db03504",
+        "contentDigest": "354f085d6ab969a75f4a464d46773c09",
         "description": "Plugin prod-404",
         "owner": "internal-data-bridge"
       }
@@ -517,7 +523,7 @@
   },
   "status": {
     "plugins": {},
-    "PLUGINS_HASH": "673643eb1ce4b27a13383d8dd93b20b9"
+    "PLUGINS_HASH": "cfc8669f6bcc2905922797f492092f2c"
   },
   "componentDataDependencies": {
     "nodes": {
