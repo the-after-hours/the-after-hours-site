@@ -21,8 +21,12 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "devDependencies": {
+    "deep-extend": ">=0.5.1",
     "eslint": "^5.3.0",
-    "prettier": "^1.13.7"
+    "node-sass": "^4.9.4",
+    "prettier": "^1.13.7",
+    "randomatic": ">=3.0.0",
+    "url-parse": ">=1.4.3"
   },
   "repository": {
     "type": "git",
