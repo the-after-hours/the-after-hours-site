@@ -22,7 +22,7 @@
   },
   "devDependencies": {
     "eslint": "^5.7.0",
-    "node-sass": "^4.9.4",
+    "node-sass": "^4.13.1",
     "prettier": "^1.13.7"
   },
   "repository": {
